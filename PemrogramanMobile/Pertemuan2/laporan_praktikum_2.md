@@ -13,12 +13,12 @@ Mahasiswa mampu:
 - Konfirmasi versi node.js
 - node -v 
 
-![alt text](node.png)
+![alt text](./img/node.png)
 
 - Konfirmasi versi npm
 - npm -v
 
-![alt text](npm.png) 
+![alt text](./img/npm.png) 
 
 2. Membuat Aplikasi Mobile (React Native)
  - Untuk Referensi Dokumentasi Resmi milik Expo
@@ -29,7 +29,7 @@ Mahasiswa mampu:
  - change directory ke folder praktikum (Pemrograman Mobile->Pertemuan-2)
  - npx create-expo-app ptmn2 --template blank
  - Konfirmasi projek baru
- ![alt text](step2.png)
+ ![alt text](./img/step2.png)
 
  3. Menjalankan Aplikasi Mobile (React Native)
  - cd ptmn2
@@ -42,7 +42,7 @@ Mahasiswa mampu:
  - sebelumnya install (npx expo install react-dom react-native-web)
  - npx expo start --web
  
-![alt text](step3.png)
+![alt text](./img/step3.png)
 
 4. Tugas Praktikum Pemrograman Mobile (React Native)
  - Menambagkan CV sederhana dengan React Native
@@ -52,4 +52,4 @@ Mahasiswa mampu:
  - Cita-cita
  - Rencana mencapai cita-cita
 
-![alt text](step41.png)
+![alt text](./img/step41.png)
